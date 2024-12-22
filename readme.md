@@ -21,6 +21,6 @@ This project is a simple web application that generates an ID card based on user
 To get started with this project, simply clone the repository and open `index.html` in your web browser.
 
 ```sh
-git clone https://github.com/your-username/id-card-generator.git
+git clone https://github.com//id-card-generator.git
 cd id-card-generator
 open [index.html](http://_vscodecontentref_/4)
